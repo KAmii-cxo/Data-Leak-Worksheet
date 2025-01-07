@@ -1,4 +1,4 @@
-# Data-Leak-Worksheet
+# Data Leak Worksheet
 
 ### Incident summary: 
 
